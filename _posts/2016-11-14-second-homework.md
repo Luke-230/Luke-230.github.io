@@ -8,26 +8,26 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>Second Homework</td>
-    <td></td>
-    <td>14/11/16</td>
+    <th>Title</th>
+    <th>Second Homework</th>
+    <th></th>
+    <th>14/11/16</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point:</td>
-    <td>Changing the colours of my blog on github.</td>
+    <th>Starting point:</th>
+    <th>Changing the colours of my blog on github.</th>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td></td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td>No, because my colours didn't change.</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt by trying to do the task without asking my teacher.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>What limited My learning was the lack of time. I need to work on not talking so much in class.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I will stop or at least try, to not talk during class so that Mr Keen doesn't have to stop to talk to us.</td>
