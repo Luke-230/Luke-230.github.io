@@ -15,7 +15,7 @@ published: true
 <table>
 <tr><th>Pac man:</th>
 <td>In this game I noticed that there are 6 sprites, Pac-man, the 4 ghosts 
-(Blinky, Pinky, Inky and Clyde)the indivisual pellets(I'm counting them as one)and the power pellets.
+(Blinky, Pinky, Inky and Clyde) the indivisual pellets (I'm counting them as one)and the power pellets.
 The variables I noticed are the lives, the points, and the cherries. I think that the game is good in the way that
 the ghosts don't follow Pac-man, but I think it should be a bit more randomised.
 </tr>
