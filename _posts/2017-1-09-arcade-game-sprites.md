@@ -21,9 +21,9 @@ the ghosts don't follow Pac-man, but I think it should be a bit more randomised.
 </tr>
 <tr><th>Space invaders:</th>
 <td>In this game I noticed there are 4 different sprites: the Aliens, the tank, the bullet and the shields/bunkers.
-The vairiables I noticed are the lives, points, and possibly speed..I think this game is good that the aliens speed up the more time you take,
+The vairiables I noticed are the lives, points, and possibly speed.I think this game is good that the aliens speed up the more time you take,
 but I think that they should have multiple bullet sprites for the tank instad of just 1.</td></tr>
-<tr><th>Frogger:></th>
+<tr><th>Frogger:</th>
 <td>The different sprites I noticed in this game were: frogger, the cars, the turtles and the logs. The variables were:
 the score, the high score, and the time.I think that this game is good, but I think frogger should go a little slower.</td></tr>
 <tr><th>Asteroids:</th>
