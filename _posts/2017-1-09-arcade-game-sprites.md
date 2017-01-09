@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-  <th>Game</th><th> Sprites, variables and what I think about the games</th>
+  <th>   Game   </th><th>     Sprites, variables and what I think about the games    </th>
       </tr>
 </table>
 
