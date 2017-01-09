@@ -7,7 +7,12 @@ source-id: 1Fw3rQk-AgODf4rHItagAibiMoBRT-fwVjYj3xQtcbuA
 published: true
 ---
 <table>
-<tr><th>Game</th><th>Sprites, variables and what I thought about the game</th></tr>
+  <tr>
+  <th>Game</th><th> Sprites, variables and what I think about the games</th>
+      </tr>
+</table>
+
+<table>
 <tr><th>Pac man:</th>
 <td>In this game I noticed that there are 6 sprites, Pac-man, the 4 ghosts 
 (Blinky, Pinky, Inky and Clyde)the indivisual pellets(I'm counting them as one)and the power pellets.
