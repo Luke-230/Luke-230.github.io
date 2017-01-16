@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>What are you going to work on today?</td>
+    <th>What are you going to work on today?</th>
   </tr>
   <tr>
     <td>Making the characters, making the background and costumes.</td>
@@ -20,8 +20,8 @@ published: true
 
 <table>
   <tr>
-    <td>Teacher's?</td>
-    <td>Mine?</td>
+    <th>Teacher's?</th>
+    <th>Mine?</th>
   </tr>
   <tr>
     <td>having created all of your principal sprites.
@@ -38,19 +38,19 @@ make the lights change colour</td>
 
 <table>
   <tr>
-    <td>Beginning of Lesson: What have you done so far? What point of the work are you at?</td>
+    <th>Beginning of Lesson: What have you done so far? What point of the work are you at?</th>
   </tr>
   <tr>
     <td>N/A, I wasn't here for the first half of the lesson because I had a music lesson.</td>
   </tr>
   <tr>
-    <td>Activity:  What are you going to be doing this lesson? </td>
+    <th>Activity:  What are you going to be doing this lesson? </th>
   </tr>
   <tr>
     <td>I started to make my game.</td>
   </tr>
   <tr>
-    <td>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </td>
+    <th>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </th>
   </tr>
   <tr>
     <td>N/A, I wasn’t here for the first half of the lesson because I had a music lesson.</td>
