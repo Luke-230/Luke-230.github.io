@@ -8,6 +8,9 @@ published: true
 ---
 <table>
   <tr>
+  <th>Title:</th><td>My scratch game (1)</td>
+  </tr>
+  <tr>
     <th>What are you going to work on today?</th>
   </tr>
   <tr>
