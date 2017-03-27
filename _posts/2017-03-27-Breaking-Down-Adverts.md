@@ -21,7 +21,7 @@ table>
       <th>What is the subtext?</th>
   </tr>
   <tr>
-    <td></td>
+    <td>The subtext is that you can have fun with all the different shapes.</td>
   </tr>
   <tr>
     <th>What is the hidden message?></th>
