@@ -12,7 +12,7 @@ published: true
 <table><tr><th>Github</th><td>-First term</td></tr>
 <tr><th>Difficulty (out of 10)</th><td>I would give Github a 3/10 (10 being the most difficult) because the colours and the background were fairly easy, but the containers and the corners were a bit harder.</td></tr>
 <tr><th>What did you like about github?</th><td>I liked that </td></tr>
-<tr><th>What didn't you like?</th>I didn't like the fact that you had to create a post every week, and I personally think it should be every 2 weeks.<td></td></tr>
+<tr><th>.<td>What didn't you like?</th>I didn't like the fact that you had to create a post every week, and I personally think it should be every 2 weeks</td></tr>
 
 <table><tr><th>Scratch</th><td>-Second term</td></tr>
 <tr><th>Difficulty (out of 10)</th><td>I think scratch was 6/10, at the level that I was coding. The movement and pictures were easy, but some of the coding was a bit difficult.</td></tr>
