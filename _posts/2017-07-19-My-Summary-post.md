@@ -15,7 +15,7 @@ published: true
 <tr><th>What didn't you like?</th>I didn't like the fact that you had to create a post every week, and I personally think it should be every 2 weeks.<td></td></tr>
 
 <table><tr><th>Scratch</th><td>-Second term</td></tr>
-<tr><th>Difficulty (out of 10)</th>I think scratch was 6/10, at the level that I was coding. The movement and pictures were easy, but some of the coding was a bit difficult.<td></td></tr>
+<tr><th>Difficulty (out of 10)</th><td>I think scratch was 6/10, at the level that I was coding. The movement and pictures were easy, but some of the coding was a bit difficult.</td></tr>
 <tr><th>What did you like about scratch?</th><td>I liked that we could experiment with our code. </td></tr>
 <tr><th>What didn't you like?</th><td>I didn't like the amount of time we got, because I didn't have enough time, although everyone else did.</td></tr>
 
